@@ -172,3 +172,8 @@ chillyroom.com
 
 # IHG Internet Access
 portal.linkbroad.com
+
+# My own site
+danghr.com
+danghr.cn
+testspeedwithfun.top
